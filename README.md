@@ -1,3 +1,7 @@
+## Learning Typescript Project
+- Learning Typescript 책에 나와있는 프로젝트를 진행하는 저장소입니다. 
+- 기간: 2023. 08. 22. ~ ? 
+- - - -
 <h1 align="center"><em>Learning TypeScript</em> Projects</h1>
 
 <p align="center">Hands-on real world projects that will help you exercise your knowledge of TypeScript.</p>
